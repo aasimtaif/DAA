@@ -37,7 +37,7 @@ int jumpSearch(int arr[], int x, int n)
     return -1;
 }
 
-// Driver program to test function
+
 int main()
 {
     int arr[] = {0, 1, 1, 2, 3, 5, 8, 13, 21,
@@ -45,10 +45,10 @@ int main()
     int x = 55;
     int n = sizeof(arr) / sizeof(arr[0]);
 
-    // Find the index of 'x' using Jump Search
+    
     int index = jumpSearch(arr, x, n);
 
-    // Print the index where 'x' is located
+    
     cout << "\nNumber " << x << " is at index " << index<<endl;
     return 0;
 }

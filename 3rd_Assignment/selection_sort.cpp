@@ -34,7 +34,7 @@ void selectionSort(int arr[], int n)
 	}
 }
 
-//Function to print an array
+
 void printArray(int arr[], int size)
 {
 	int i;
@@ -43,7 +43,7 @@ void printArray(int arr[], int size)
 	cout << endl;
 }
 
-// Driver program to test above functions
+
 int main()
 {
 	int arr[] = {64, 25, 12, 22, 11};

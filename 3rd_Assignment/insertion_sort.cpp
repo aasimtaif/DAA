@@ -36,7 +36,7 @@ void printArray(int arr[], int n)
 	cout << endl;
 }
 
-// Driver code
+
 int main()
 {
 	int arr[] = { 12, 11, 13, 5, 6 };
@@ -47,4 +47,4 @@ int main()
 
 	return 0;
 }
-// This is code is contributed by rathbhupendra
+
