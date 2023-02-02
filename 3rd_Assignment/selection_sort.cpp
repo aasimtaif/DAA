@@ -1,4 +1,4 @@
-// C++ program for implementation of
+/// C++ program for implementation of
 // selection sort
 #include <bits/stdc++.h>
 using namespace std;
@@ -53,4 +53,4 @@ int main()
 	printArray(arr, n);
 	return 0;
 }
-// This is code is contributed by rathbhupendra
+
